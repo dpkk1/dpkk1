@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **deepakkumar7228488@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MhOeJk5Y7ztRARaIFidomWLy3FbVwd3L/view?usp=sharing](https://drive.google.com/file/d/1MhOeJk5Y7ztRARaIFidomWLy3FbVwd3L/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepak-kumar-41002b179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak-kumar-41002b179" height="30" width="40" /></a>
