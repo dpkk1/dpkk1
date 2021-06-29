@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub!</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate front-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpkk1&label=Profile%20views&color=0e75b6&style=flat" alt="dpkk1" /> </p>
 
