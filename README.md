@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub!</h1>
-<h3 align="center">A passionate front-end developer</h3>
+<h3 align="center">Web development enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpkk1&label=Profile%20views&color=0e75b6&style=flat" alt="dpkk1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpkk1" alt="dpkk1" /></a> </p>
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **NodeJs**
 
 - 📫 How to reach me **dpkkr2214@gmail.com**
 
@@ -14,8 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/deepak-kumar-41002b179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak-kumar-41002b179" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/dpkk1/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/dpkk1/practice/" height="30" width="40" /></a>
- <a href="https://www.codechef.com/users/dpkk1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dpkk1" height="30" width="40" /></a>
- <a href="https://codeforces.com/profile/dpkk1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="dpkk1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dpkk1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dpkk1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dpkk1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="dpkk1" height="30" width="40" /></a>
 <a href="https://twitter.com/deepakk25473436" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deepakk25473436" height="30" width="40" /></a>
@@ -39,8 +37,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="node" width="40" height="40"/> </a>
-  <a href="https://expressjs.com/" target="_blank"> <img src="https://img.icons8.com/windows/32/26e07f/node-js.png" alt="express" width="40" height="40"/> </a>
   <a href="https://wordpress.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="wordpress" width="40" height="40"/> </a>
   </p>
   
