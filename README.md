@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub!</h1>
 <h3 align="center">Web Development Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpkk1&label=Profile%20views&color=0e75b6&style=flat" alt="dpkk1" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpkk1" alt="dpkk1" /></a> </p>
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
