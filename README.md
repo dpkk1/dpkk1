@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub!</h1>
-<h3 align="center">Web development enthusiast</h3>
+<h3 align="center">Web Development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpkk1&label=Profile%20views&color=0e75b6&style=flat" alt="dpkk1" /> </p>
 
@@ -25,10 +25,6 @@
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/java/" target="_blank"> 
- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/php/" target="_blank"> 
-    <img src="https://img.icons8.com/officel/50/000000/php-logo.png" alt="php" width="40" height="40"/> </a>
 </p>
   
 <h3 align="left">Web Technologies:</h3>
