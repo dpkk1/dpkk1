@@ -1,16 +1,26 @@
-<h1 align="center">Hi 👋, Welcome to my GitHub!</h1>
-<h3 align="center">Web Development Enthusiast</h3>
+<h1 align="center">
+ <img src="https://media.tenor.com/MQ0yxXRr06cAAAAM/blob.gif" width="40" height="40" alt="party-blob"/>
+ <img src="https://media.tenor.com/MQ0yxXRr06cAAAAM/blob.gif" width="40" height="40" alt="party-blob"/>
+ <img src="https://media.tenor.com/MQ0yxXRr06cAAAAM/blob.gif" width="40" height="40" alt="party-blob"/>
+ Hi 👋, Welcome to my GitHub! 
+ <img src="https://media.tenor.com/MQ0yxXRr06cAAAAM/blob.gif" width="40" height="40" alt="party-blob"/> 
+ <img src="https://media.tenor.com/MQ0yxXRr06cAAAAM/blob.gif" width="40" height="40" alt="party-blob"/>
+ <img src="https://media.tenor.com/MQ0yxXRr06cAAAAM/blob.gif" width="40" height="40" alt="party-blob"/>
+
+
+</h1>
+<h3 align="center">Smart Contract Developer | Blockchain Developer | Web3.0</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpkk1" alt="dpkk1" /></a> </p>
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-- 🌱 I’m currently learning **Blockchain | Smart Contract**
+- 🌱 I’m currently engaged in **Smart Contract Development**
 
 - 📫 How to reach me **dpkkr2214@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepak-kumar-41002b179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak-kumar-41002b179" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dpkk1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak-kumar" height="30" width="40" /></a>
  <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/dpkk1/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/dpkk1/practice/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dpkk1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dpkk1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dpkk1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="dpkk1" height="30" width="40" /></a>
@@ -31,6 +41,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://nodejs.org/en/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="node" width="40" height="40"/> </a>
   <a href="https://wordpress.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="wordpress" width="40" height="40"/> </a>
   </p>
   
