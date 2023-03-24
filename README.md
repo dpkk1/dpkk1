@@ -9,12 +9,12 @@
 
 
 </h1>
-<h3 align="center">Smart Contract Developer | Blockchain Developer | Web3.0</h3>
+<h3 align="center">Software Developer | Web3 Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpkk1" alt="dpkk1" /></a> </p>
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-- 🌱 I’m currently engaged in **Smart Contract Development**
+- 🌱 I’m currently engaged in **Software Development**
 
 - 📫 How to reach me **dpkkr2214@gmail.com**
 
